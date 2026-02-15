@@ -81,10 +81,5 @@ public class Operators
         System.out.println(obj instanceof A);
         String st="yasmin";
         System.out.println(st instanceof String);
-
-
-
-
-        
     }    
 }
