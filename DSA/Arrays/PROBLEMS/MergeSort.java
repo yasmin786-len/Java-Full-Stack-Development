@@ -53,7 +53,7 @@ public class MergeSort {
             arr[i]=sc.nextInt();
         }
 
-        System.out.println("Bubble sort:");
+        System.out.println("Merge sort:");
         mergesort(arr, 0,n-1);
         for(int m:arr){
             System.out.print(m+" ");
