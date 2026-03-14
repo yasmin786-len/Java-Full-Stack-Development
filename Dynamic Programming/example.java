@@ -29,6 +29,7 @@ class example{
 
         System.out.println(recursion(n));
         int arr[]=new int[n+1];
+        System.out.println("Solution by dynamic programming");
         System.out.println(dp(arr, n+1));
     }
 }
