@@ -19,6 +19,7 @@ public class Weightedli {
             li.add(new ArrayList<>());
 
         }
+        //adding weights of the edges
         li.get(0).add(new Pair(1,5));
         li.get(1).add(new Pair(0,5));
 
