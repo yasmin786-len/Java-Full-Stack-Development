@@ -9,7 +9,7 @@ class Pair{
             this.weight=weight;
         }
     }
-public class Weightedli {
+public class Weightedlist {
     
     public static void main(String[] args) {
          Scanner sc=new Scanner(System.in);
