@@ -75,7 +75,6 @@ public class Operators
         boolean isEligible=age>18?true:false;
         System.out.println(isEligible);
 
-
         //instace of operator
         A obj=new A();
         System.out.println(obj instanceof A);
