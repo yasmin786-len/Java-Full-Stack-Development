@@ -86,11 +86,5 @@ class arrays{
             {1,2,3}
         };
         System.out.println(Arrays.toString(w[0]));
-
-   
-
-
-
-
     }
 }
