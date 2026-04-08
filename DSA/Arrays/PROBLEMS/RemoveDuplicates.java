@@ -7,8 +7,7 @@ class RemoveDuplicates{
         for(int i=0;i<n;i++){
             set.add(arr[i]);
         }
-        return set.size();
-        
+        return set.size();  
     }
     public static int optimal(int []arr,int n){
         int i=0;
