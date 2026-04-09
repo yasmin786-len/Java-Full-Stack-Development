@@ -39,5 +39,4 @@ public class example1 {
         int arr[]=new int[n+1];
         System.out.println(dp(arr, n+1));
     }
-    
 }
