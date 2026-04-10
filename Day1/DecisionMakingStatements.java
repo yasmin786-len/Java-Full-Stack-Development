@@ -58,7 +58,6 @@ class DecisionMakingStatements
                     System.out.println("enter valid day!");
                     break;
             }
-
             //ternary operator
             System.out.println(age>=18? "eligible":"not eligible");
 
