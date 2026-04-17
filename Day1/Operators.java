@@ -68,6 +68,7 @@ public class Operators
         System.out.println(10>>2);
         System.out.println(10>>>2);
 
+        
         //ternary operator
         //short hand if
         Scanner sc=new Scanner(System.in);
@@ -75,6 +76,7 @@ public class Operators
         boolean isEligible=age>18?true:false;
         System.out.println(isEligible);
 
+        
         //instace of operator
         A obj=new A();
         System.out.println(obj instanceof A);
